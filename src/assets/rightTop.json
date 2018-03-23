@@ -1,0 +1,383 @@
+{
+  "totalData": 12,
+  "result": [
+    {
+      "name": "岩腊乡",
+      "sum": "1380",
+      "type": [
+        {
+          "name": "test",
+          "coordinate": [105.970538,26.084827],
+          "value": 390
+        },
+        {
+          "name": "test",
+          "value": 210,
+          "coordinate": [105.942942,26.056787]
+        },
+        {
+          "name": "test",
+          "value": 245,
+          "coordinate": [105.995259,26.053671]
+        },
+        {
+          "name": "test",
+          "value": 245,
+          "coordinate": [106.013656,26.085865]
+        }
+      ]
+    },
+    {
+      "name": "刘官乡",
+      "sum": "1494",
+      "type": [
+        {
+          "name": "test",
+          "value": 704,
+          "coordinate": [106.209128,26.302165]
+        },
+        {
+          "name": "test",
+          "value": 400,
+          "coordinate": [106.217177,26.263292]
+        },
+        {
+          "name": "test",
+          "value": 50,
+          "coordinate": [106.2304,26.252924]
+        },
+        {
+          "name": "test",
+          "value": 340,
+          "coordinate": [106.210278,26.280916]
+        }
+      ]
+    },
+    {
+      "name": "黄腊乡",
+      "sum": "1019.5",
+      "type": [
+        {
+          "name": "test",
+          "value": 288.5,
+          "coordinate": [106.247072,26.283508]
+        },
+        {
+          "name": "test",
+          "value": 439,
+          "coordinate": [106.268344,26.281953]
+        },
+        {
+          "name": "test",
+          "value": 70,
+          "coordinate": [106.26432,26.265884]
+        },
+        {
+          "name": "test",
+          "value": 86,
+          "coordinate": [106.33216,26.282989]
+        },
+        {
+          "name": "test",
+          "value": 106,
+          "coordinate": [106.32756,26.261219]
+        },
+        {
+          "name": "test",
+          "value": 30,
+          "coordinate": [106.340208,26.25085]
+        }
+      ]
+    },
+    {
+      "name": "新场乡",
+      "sum": "1300",
+      "type": [
+        {
+          "name": "test",
+          "value": 700,
+          "coordinate": [105.946391,26.186544]
+        },
+        {
+          "name": "test",
+          "value": 300,
+          "coordinate": [106.037803,26.166312]
+        },
+        {
+          "name": "test",
+          "value": 300,
+          "coordinate": [106.011932,26.139849]
+        }
+
+      ]
+    },
+    {
+      "name": "鸡场乡",
+      "sum": "700",
+      "type": [
+        {
+          "name": "test",
+          "value": 700,
+          "coordinate": [106.106218,26.090538]
+        }
+      ]
+    },
+    {
+      "name": "双堡镇",
+      "sum": "225",
+      "type": [
+        {
+          "name": "test",
+          "value": 50,
+          "coordinate": [106.154511,26.163718]
+        },
+        {
+          "name": "test",
+          "value": 150,
+          "coordinate": [106.198204,26.14867]
+        },
+        {
+          "name": "test",
+          "value": 25,
+          "coordinate": [106.221201,26.129469]
+        }
+      ]
+    },
+    {
+      "name": "东屯乡",
+      "sum": "1317",
+      "type": [
+        {
+          "name": "test",
+          "value": 88,
+          "coordinate": [106.245347,26.21196]
+        },
+        {
+          "name": "test",
+          "value": 229,
+          "coordinate": [106.276393,26.207292]
+        },
+        {
+          "name": "test",
+          "value": 46,
+          "coordinate": [106.248797,26.199512]
+        },
+        {
+          "name": "test",
+          "value": 40,
+          "coordinate": [106.270069,26.184988]
+        },
+        {
+          "name": "test",
+          "value": 25,
+          "coordinate": [106.247647,26.186026]
+        },
+        {
+          "name": "test",
+          "value": 125,
+          "coordinate": [106.26317,26.170462]
+        },
+        {
+          "name": "test",
+          "value": 62,
+          "coordinate": [106.257996,26.15334]
+        },
+        {
+          "name": "test",
+          "value": 120,
+          "coordinate": [106.266044,26.221813]
+        },
+        {
+          "name": "test",
+          "value": 220,
+          "coordinate": [106.275818,26.20055]
+        },
+        {
+          "name": "test",
+          "value": 104,
+          "coordinate": [106.275243,26.176688]
+        },
+        {
+          "name": "test",
+          "value": 10,
+          "coordinate": [106.277543,26.169425]
+        },
+        {
+          "name": "test",
+          "value": 57,
+          "coordinate": [106.231549,26.212478]
+        },
+        {
+          "name": "test",
+          "value": 70,
+          "coordinate": [106.233849,26.192769]
+        },
+        {
+          "name": "test",
+          "value": 121,
+          "coordinate": [106.248797,26.172538]
+        }
+      ]
+    },
+    {
+      "name": "蔡官镇",
+      "sum": "3470",
+      "type": [
+        {
+          "name": "test",
+          "value": 220,
+          "coordinate": [105.982036,26.391782]
+        },
+        {
+          "name": "test",
+          "value": 510,
+          "coordinate": [106.040677,26.377282]
+        },
+        {
+          "name": "test",
+          "value": 2090,
+          "coordinate": [106.035503,26.410421]
+        },
+        {
+          "name": "test",
+          "value": 300,
+          "coordinate": [105.971113,26.372621]
+        },
+        {
+          "name": "test",
+          "value": 350,
+          "coordinate": [106.036078,26.362262]
+        },
+        {
+          "name": "test",
+          "value": 300,
+          "coordinate": [106.05965,26.392299]
+        }
+      ]
+    },
+    {
+      "name": "七眼桥",
+      "sum": "1145",
+      "type": [
+        {
+          "name": "test",
+          "value": 550,
+          "coordinate": [106.030904,26.331182]
+        },
+        {
+          "name": "test",
+          "value": 55,
+          "coordinate": [106.051026,26.325482]
+        },
+        {
+          "name": "test",
+          "value": 260,
+          "coordinate": [106.022855,26.30372]
+        },
+        {
+          "name": "test",
+          "value": 280,
+          "coordinate": [105.986635,26.282989]
+        }
+      ]
+    },
+    {
+      "name": "大西桥镇",
+      "sum": "690",
+      "type": [
+        {
+          "name": "test",
+          "value": 240,
+          "coordinate": [106.129789,26.368478]
+        },
+        {
+          "name": "test",
+          "value": 450,
+          "coordinate": [106.150486,26.345687]
+        }
+      ]
+    },
+    {
+      "name": "旧州镇",
+      "sum": "577",
+      "type": [
+        {
+          "name": "test",
+          "value": 577,
+          "coordinate": [106.076322,26.247739]
+        }
+      ]
+    },
+    {
+      "name": "轿子山镇",
+      "sum": "2338",
+      "type": [
+        {
+          "name": "test",
+          "value": 60,
+          "coordinate": [105.95329,26.328073]
+        },
+        {
+          "name": "test",
+          "value": 498,
+          "coordinate": [105.937193,26.312011]
+        },
+        {
+          "name": "test",
+          "value": 450,
+          "coordinate": [105.909597,26.303201]
+        },
+        {
+          "name": "test",
+          "value": 50,
+          "coordinate": [105.903848,26.294392]
+        },
+        {
+          "name": "test",
+          "value": 80,
+          "coordinate": [105.91937,26.284026]
+        },
+        {
+          "name": "test",
+          "value": 410,
+          "coordinate": [105.933743,26.30372]
+        },
+        {
+          "name": "test",
+          "value": 300,
+          "coordinate": [105.95559,26.316156]
+        },
+        {
+          "name": "test",
+          "value": 490,
+          "coordinate": [105.981461,26.314083]
+        }
+      ]
+    },
+    {
+      "name": "幺铺镇",
+      "sum": "0",
+      "type": []
+    },
+    {
+      "name": "七眼桥镇",
+      "sum": "0",
+      "type": []
+    },
+    {
+      "name": "龙宫镇",
+      "sum": "0",
+      "type": []
+    },
+    {
+      "name": "杨武乡",
+      "sum": "0",
+      "type": []
+    },
+    {
+      "name": "宋旗镇",
+      "sum": "0",
+      "type": []
+    }
+  ]
+}
